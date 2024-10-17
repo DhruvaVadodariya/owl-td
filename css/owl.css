@@ -360,10 +360,11 @@ ul > li > a{
         display: flex;
         flex-wrap: wrap;
         flex-direction: column;
-        margin: auto;
+        justify-content: center;
+        align-items: center;
         }
         .tt > .ii{
-        margin-left: 53px;
+        margin-left: 58px;
         height: 95px; 
         width: 250px; 
         font-style: italic; 
@@ -378,7 +379,7 @@ ul > li > a{
         .tt > .jj{
         height: 90px; 
         width: 250px;
-        margin-left: 53px; 
+        margin-left: 58px; 
         font-style: italic;
         font-size: 25px; 
         background-color: #ff3f4d;
