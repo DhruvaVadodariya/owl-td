@@ -427,14 +427,14 @@ ul > li > a{
         .tt > .ll > .vv{
         padding-top: 20px;
         font-size: 13px;
-        margin-left: -10px;
+        text-align: center;
         flex-direction: column;
         flex-wrap: wrap;
         }
         .tt > .ll > .vg{
         padding-top: 20px;
         font-size: 13px;
-        margin-left: -10px;
+        text-align: center;
         flex-direction: column;
         flex-wrap: wrap;
         }
@@ -455,7 +455,7 @@ ul > li > a{
         .tt > .ll > .vk{
         padding-top: 20px;
         font-size: 13px;
-        margin-left: -10px;
+        text-align: center;
         flex-direction: column;
         flex-wrap: wrap;
         }
