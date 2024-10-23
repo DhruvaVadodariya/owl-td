@@ -364,7 +364,7 @@ ul > li > a{
         align-items: center;
         }
         .tt > .ii{
-        margin-left: 15px;
+        margin-left: 5px;
         height: 95px; 
         width: 250px; 
         font-style: italic; 
@@ -379,7 +379,7 @@ ul > li > a{
         .tt > .jj{
         height: 90px;
         width: 250px;
-        margin-left: 15px; 
+        margin-left: 5px; 
         font-style: italic;
         font-size: 25px; 
         background-color: #ff3f4d;
