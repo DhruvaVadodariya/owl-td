@@ -392,7 +392,7 @@ ul > li > a{
         }
         .tt > .kk{
         padding-top: 65px;
-        padding-left: 10px;
+        text-align: justify;
         flex-direction: column;
         flex-wrap: wrap;
         }
@@ -402,7 +402,7 @@ ul > li > a{
         }
         .tt > .ll > .uu{
         font-size: 30px;
-        margin-left: 15px;
+        text-align: justify;
         flex-direction: column;
         flex-wrap: wrap;
         }
@@ -427,35 +427,35 @@ ul > li > a{
         .tt > .ll > .vv{
         padding-top: 20px;
         font-size: 13px;
-        text-align: center;
+        text-align: justify;
         flex-direction: column;
         flex-wrap: wrap;
         }
         .tt > .ll > .vg{
         padding-top: 20px;
         font-size: 13px;
-        text-align: center;
+        text-align: justify;
         flex-direction: column;
         flex-wrap: wrap;
         }
         .tt > .ll > .vt{
-            padding-top: 20px;
-            font-size: 13px;
-            margin-left: 15px;
-            flex-direction: column;
-            flex-wrap: wrap;
+        padding-top: 20px;
+        font-size: 13px;
+        text-align: justify;
+        flex-direction: column;
+        flex-wrap: wrap;
         }
         .tt > .ll > .vc{
         padding-top: 20px;
         font-size: 13px;
-        margin-left: -5px;
+        text-align: justify;
         flex-direction: column;
         flex-wrap: wrap;
         }
         .tt > .ll > .vk{
         padding-top: 20px;
         font-size: 13px;
-        text-align: center;
+        text-align: justify;
         flex-direction: column;
         flex-wrap: wrap;
         }
