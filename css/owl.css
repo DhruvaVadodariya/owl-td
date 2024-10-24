@@ -239,6 +239,7 @@ ul > li > a{
     .kk{
         padding-left: 0px;
         display: flex;
+        width: 0%;
         justify-content: center;
         align-items: center;
     }
@@ -408,6 +409,7 @@ ul > li > a{
         }
         .tt > .ll{
         padding-top: 40px;
+        padding-left: 0px;
         }
         .tt > .ll > .uu{
         font-size: 30px;
@@ -423,7 +425,7 @@ ul > li > a{
         }
         .tt > .ll > .uc{
         font-size: 30px;
-        margin-left: 5px;
+        margin: 5px;
         flex-direction: column;
         flex-wrap: wrap;
         }
