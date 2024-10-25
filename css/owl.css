@@ -425,13 +425,13 @@ ul > li > a{
         }
         .tt > .ll > .uc{
         font-size: 30px;
-        margin: 10px;
+        margin-left: 15px;
         flex-direction: column;
         flex-wrap: wrap;
         }
         .tt > .ll > .ut{
         font-size: 30px;
-        margin-left: 30px;
+        margin-left: 40px;
         flex-direction: column;
         flex-wrap: wrap;
         }
