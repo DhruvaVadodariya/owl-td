@@ -183,9 +183,9 @@ li{
 }
 .xy{
     padding-top: 110px;
-    padding-left: 370px;
+    padding-left: 350px;
     height: 90px;
-    width: 50px;
+    width: 5%;
 }
 .yy{
     border: 1px solid grey;
@@ -425,13 +425,13 @@ ul > li > a{
         }
         .tt > .ll > .uc{
         font-size: 30px;
-        margin: 5px;
+        margin: 10px;
         flex-direction: column;
         flex-wrap: wrap;
         }
         .tt > .ll > .ut{
         font-size: 30px;
-        margin-left: 25px;
+        margin-left: 30px;
         flex-direction: column;
         flex-wrap: wrap;
         }
