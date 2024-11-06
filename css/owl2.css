@@ -271,6 +271,7 @@ ul > li > a{
         font-size: 23px;
         flex-direction: column;
         flex-wrap: wrap;
+        padding-bottom: 10px;
     }
     .main > .list123{
         display: inline;
@@ -297,14 +298,12 @@ ul > li > a{
     .jj > div >.nn{
         margin-left: 20px;
         margin-top: 25px;
-        background-color: #EAEAEA;
         flex-direction: column;
         flex-wrap: wrap;
     }
     .jj > div >.pt{
         margin-left: 20px;
         margin-top: 25px;
-        background-color: #EAEAEA;
         flex-direction: column;
         flex-wrap: wrap;
     }
