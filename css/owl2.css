@@ -287,7 +287,7 @@ ul > li > a{
         flex-direction: column;
         flex-wrap: wrap;
     }
-    .jj > .mm{
+    .jj > div >.mm{
         margin-left: 20px;
         margin-top: 25px;
         background-color: #EAEAEA;
@@ -310,7 +310,7 @@ ul > li > a{
     }
     .ll{
         font-size: 35px;
-         margin-left: -260px;
+        margin-left: -260px;
         
     }
 }
