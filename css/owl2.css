@@ -104,6 +104,7 @@
 .nn{
     color: grey;
     margin-left: 280px;
+    margin-top: 30px;
 }
 .nn:hover{
     color: black;
@@ -112,6 +113,7 @@
 .pt{
     color: grey;
     margin-left: 320px;
+    margin-top: 30px;
 }
 .pt:hover{
     color: black;
