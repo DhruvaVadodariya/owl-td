@@ -296,7 +296,7 @@ ul > li > a{
     }
     .jj{
         display: flex;
-        width: 111%;
+        width: 90%;
         flex-direction: column;
         flex-wrap: wrap;
     }
