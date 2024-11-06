@@ -294,9 +294,23 @@ ul > li > a{
         flex-direction: column;
         flex-wrap: wrap;
     }
+    .jj > div >.nn{
+        margin-left: 20px;
+        margin-top: 25px;
+        background-color: #EAEAEA;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .jj > div >.pt{
+        margin-left: 20px;
+        margin-top: 25px;
+        background-color: #EAEAEA;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
     .jj{
         display: flex;
-        width: 90%;
+        width: 70%;
         flex-direction: column;
         flex-wrap: wrap;
     }
