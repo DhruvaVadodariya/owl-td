@@ -92,6 +92,9 @@
      margin-left: 80px;
     
 }
+.ll1{
+    display: none;
+}
 .mm{
     margin-left: 290px;
     margin-top: 25px;
@@ -267,6 +270,54 @@ ul > li > a{
         flex-direction: column;
         flex-wrap: wrap;
     }
+    .tt{
+        display: none;
+    }
+    .qt{
+        display: none;
+    }
+    .uu{
+        margin-left: 25px; 
+        padding-top: 85px;
+        font-weight: bolder;
+        font-size: 17px;
+    }
+    .jj > div > .sp{
+        margin-left: 30px;
+        color: grey; 
+        font-size: 19px;
+        margin-top: 30px;
+    }.jj > div > .ps{
+        margin-left: 30px;
+        color: grey; 
+        font-size: 19px;
+        margin-top: 20px;
+    }
+    .jj > div > .vv{
+        margin-left: 20px;
+        margin-top: 30px;
+    }
+    .jj > div > .fc{
+        margin-left: 30px; 
+        color: grey; 
+        font-size: 19px; 
+        padding-top:30px;
+    }
+    .jj > div > .ww{
+        margin-left: 20px;
+    }
+    .jj > div > .xy{
+        margin-left: 30px;
+        margin-top: 20px;
+    }
+    .jj > .ll{
+        display: none;
+    }
+     .jj > div > .ll1{
+        font-size: 35px;
+        margin-left: 20px;
+        display: visible;
+    }
      .main >.ee{
         color: white; 
         margin-left: -215px;
@@ -287,38 +338,42 @@ ul > li > a{
         padding-left: 15px;
         font-size: 35px;
         padding-top: 20px;
+        font-weight: 100;
         flex-direction: column;
         flex-wrap: wrap;
     }
     .jj > div >.mm{
-        margin-left: 20px;
-        margin-top: 10px;
+        margin-left: 30px;
+        margin-top: -20px;
         background-color: #EAEAEA;
         flex-direction: column;
         flex-wrap: wrap;
         height: 25px;
     }
+    .jj > div > .rr{
+        display: none;
+    }
     .jj > div >.nn{
-        margin-left: 20px;
-        margin-top: 20px;
+        margin-left: 30px;
+        margin-top: 25px;
         flex-direction: column;
         flex-wrap: wrap;
     }
     .jj > div >.pt{
-        margin-left: 20px;
-        margin-top: 20px;
+        margin-left: 30px;
+        margin-top: 30px;
         flex-direction: column;
         flex-wrap: wrap;
     }
     .jj{
         display: flex;
-        width: 70%;
+        width: 90%;
         flex-direction: column;
         flex-wrap: wrap;
     }
     .kk{
         font-size: 15px;
-        margin-top: -30px;
+        margin-top: -50px;
         margin-left: 10px;
         font-weight: bolder;
         flex-direction: column;
