@@ -56,7 +56,7 @@ li{
     background-color: #EAEAEA;
     margin-left: 30px;
 }
-.ak{
+.aj{
     height: 80px;
     width: 220px;
     font-size: 17px;
@@ -66,6 +66,28 @@ li{
     padding-left: 20px;
     background-color: #EAEAEA;
     margin-left: 30px;
+}
+.ak{
+    height: 80px;
+    width: 220px;
+    font-size: 17px;
+    text-align: left;
+    padding-bottom: 27px;
+    border: 1px solid white;
+    padding-left: 20px;
+    background-color: #EAEAEA;
+    margin-left: 150px;
+}
+.at{
+    height: 80px;
+    width: 220px;
+    font-size: 17px;
+    text-align: left;
+    padding-bottom: 27px;
+    border: 1px solid white;
+    padding-left: 20px;
+    background-color: #EAEAEA;
+    margin-left: 150px;
 }
 .vg{
     margin-top: 90px;
@@ -96,6 +118,17 @@ li{
     flex-wrap: wrap;
 }
 .bb{
+    height: 80px;
+    width: 220px;
+    margin-left: 150px;
+    font-size: 17px;
+    text-align: left;
+    padding-bottom: 27px;
+    border: 1px solid white;
+    padding-left: 20px;
+    background-color: #EAEAEA;
+}
+.bn{
     height: 80px;
     width: 220px;
     margin-left: 150px;
@@ -153,6 +186,11 @@ li{
     color: white;
     border: 1px solid #1ccacd;
 }
+.bn:hover{
+    background-color: #1ccacd;
+    color: white;
+    border: 1px solid #1ccacd;
+}
 .bt:hover{
     background-color: #1ccacd;
     color: white;
@@ -168,7 +206,17 @@ li{
     color: white;
     border: 1px solid #1ccacd;
 }
+.aj:hover{
+    background-color: #1ccacd;
+    color: white;
+    border: 1px solid #1ccacd;
+}
 .av:hover{
+    background-color: #1ccacd;
+    color: white;
+    border: 1px solid #1ccacd;
+}
+.at:hover{
     background-color: #1ccacd;
     color: white;
     border: 1px solid #1ccacd;
@@ -307,6 +355,22 @@ ul > li > a{
         flex-direction: column;
         margin-top: 10px;
     }
+    .jj > .aj{
+        height: 95px;
+        line-height: 95;
+        position: relative;
+        text-align: center;
+        width: 150px;
+        margin-left: 15px;
+        font-size: 17px;
+        text-align: left;
+        padding-bottom: 27px;
+        border: 1px solid white;
+        padding-left: 20px;
+        flex-wrap: wrap;
+        flex-direction: column;
+        margin-top: 10px;
+    }
      .jk > .bb{
         height: 95px;
         line-height: 95px;
@@ -337,6 +401,14 @@ ul > li > a{
         position: absolute;
         top: 40%;
         left: 35%;
+        display: inline-block;
+    }
+    .aj > p{
+        line-height: 1.5;
+        vertical-align: middle;
+        position: absolute;
+        top: 40%;
+        left: 25%;
         display: inline-block;
     }
     .av > p{
@@ -371,6 +443,30 @@ ul > li > a{
         left: 25%;
         display: inline-block;
     }
+    .at > p{
+        line-height: 1.5;
+        vertical-align: middle;
+        position: absolute;
+        top: 40%;
+        left: 30%;
+        display: inline-block;
+    }
+    .bs > p{
+        line-height: 1.5;
+        vertical-align: middle;
+        position: absolute;
+        top: 40%;
+        left: 25%;
+        display: inline-block;
+    }
+    .bn > p{
+        line-height: 1.5;
+        vertical-align: middle;
+        position: absolute;
+        top: 40%;
+        left: 25%;
+        display: inline-block;
+    }
     .jk{
         margin-top: 25px;
         display: flex;
@@ -387,6 +483,54 @@ ul > li > a{
         padding-right:0px;
     }
     .jj > .aa{
+        height: 95px;
+        width: 150px;
+        line-height: 95px;
+        text-align: center;
+        position: relative;
+        margin-left: 15px;
+        font-size: 17px;
+        text-align: left;
+        padding-bottom: 27px;
+        border: 1px solid white;
+        padding-left: 20px;
+        flex-wrap: wrap;
+        flex-direction: column;
+        margin-top: 10px;
+    }
+    .hk > .aa{
+        height: 95px;
+        width: 150px;
+        line-height: 95px;
+        text-align: center;
+        position: relative;
+        margin-left: 15px;
+        font-size: 17px;
+        text-align: left;
+        padding-bottom: 27px;
+        border: 1px solid white;
+        padding-left: 20px;
+        flex-wrap: wrap;
+        flex-direction: column;
+        margin-top: 10px;
+    }
+    .hk > .at{
+        height: 95px;
+        width: 150px;
+        line-height: 95px;
+        text-align: center;
+        position: relative;
+        margin-left: 15px;
+        font-size: 17px;
+        text-align: left;
+        padding-bottom: 27px;
+        border: 1px solid white;
+        padding-left: 20px;
+        flex-wrap: wrap;
+        flex-direction: column;
+        margin-top: 10px;
+    }
+    .hk > .bb{
         height: 95px;
         width: 150px;
         line-height: 95px;
@@ -488,9 +632,12 @@ ul > li > a{
         flex-direction: column;
         margin-top: 10px;
     }
-    .vc >.bb{
+    .vc >.bn{
         height: 95px;
         width: 150px;
+        line-height: 95;
+        text-align: center;
+        position: relative;
         margin-left: 15px;
         font-size: 17px;
         text-align: left;
@@ -504,6 +651,9 @@ ul > li > a{
       .hk >.bs{
         height: 95px;
         width: 150px;
+        line-height: 95;
+        text-align: center;
+        position: relative;
         margin-left: 15px;
         font-size: 17px;
         text-align: left;
