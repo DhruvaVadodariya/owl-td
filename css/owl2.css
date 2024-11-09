@@ -14,6 +14,10 @@
 .box{
     display:inline ;
 }
+.bs{
+    padding-left: 40px;
+    font-size: 20px;
+}
 .ff{
     font-size: 17px;
     color: white;
@@ -26,6 +30,7 @@
     width: 600px;
     border: 1px solid rgb(213, 211, 211);
     margin-left:  475px;
+    background-color: rgb(246, 244, 244);
 }
 .sp{
     margin-left: 310px;
